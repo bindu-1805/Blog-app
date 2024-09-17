@@ -12,7 +12,7 @@ A simple Blog web application using Node, Express and EJS. <br />
    ```
 2. Navigate to the project directory
    ```
-   cd folder_name
+   cd Blog-app
    ```
 3. Install dependencies 
    ```
